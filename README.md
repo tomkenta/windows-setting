@@ -11,6 +11,10 @@ https://docs.microsoft.com/ja-jp/sysinternals/downloads/ctrl2cap
 ```
 したのちに再起動
 
+## google 日本語入力
+https://www.google.co.jp/ime/
+からDLしてインストールする（自動化したい）
+
 ## Scoopのインストール
 PowerShell に init.ps1を実行
 
