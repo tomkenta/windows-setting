@@ -16,3 +16,9 @@ PowerShell に init.ps1を実行
 
 ## windows subsystem for linux のON
 Tun Windows featurs on or off > windows subsytem for linux をチェック > 再起動
+or
+```
+PS> Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+でreboot
+
